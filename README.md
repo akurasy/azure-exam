@@ -111,6 +111,7 @@ you are allowed to move subscriptions between management groups.
 There are two types of access controls in a conditional access policy:
 
 Grant - enforces grant or block access to resources.
+
 Session - enable limited experiences within specific cloud applications
 
 tags and locks can be applied to subscription, vm and storage account. 
