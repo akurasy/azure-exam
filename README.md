@@ -88,7 +88,7 @@ Point-to-Site (P2S) VPN connection allows you to create a secure connection to y
 
 policy-based VPN type as your gateway prevents remote connection. route-based VPN gateway allows remote connection
 
-NSG requires a manuall effort to create a security rule for your azure resource. to automate this, use a custom policy definition in order to automate the requirement.
+NSG requires a manual effort to create a security rule for your azure resource. to automate this, use a custom policy definition in order to automate the requirement.
 
 Service chaining and User-Defined Routes (UDRs) allow for precise control over traffic paths by overriding Azure's default routing
 
