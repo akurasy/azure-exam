@@ -143,7 +143,7 @@ Data Collector Set DCS is a Windows feature primarily used for collecting perfor
 you need to create a Recovery Services vault first before a backup policy 
 
 
-To delete a RG, delete ball resources that are locked and backed up
+To delete a RG, delete all resources that are locked and backed up
 
 backup vault supported data source ; blob, azure disk, postgres and k8s services. Recovery services vault data source. azure sql data protection manager, backup server, backup agent. 
 
