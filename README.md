@@ -149,4 +149,8 @@ backup vault supported data source ; blob, azure disk, postgres and k8s services
 
 
 
+ Azure ExpressRoute to allow the web applications to connect to the on-premises network.
+
+
+when a backup job throws a warning, it means the latest vm agent is not installed
 
