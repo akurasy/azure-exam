@@ -154,3 +154,15 @@ backup vault supported data source ; blob, azure disk, postgres and k8s services
 
 when a backup job throws a warning, it means the latest vm agent is not installed
 
+Not all Microsoft 365 services are available in all locations. Before a license can be assigned to a user, you must specify the Usage location
+
+Microsoft 365 license are only consumed by members of the group and not the group owners.
+
+For alert rule that stopped, an admin manually stopped the alert
+
+Downloading the vault credentials and registering the server with the Recovery Services vault is required before any backup operations can occur, because this establishes trust between the on-premises server and the vault.
+
+
+Only Microsoft Entra ID P1 and P2 support SSPR, but Microsoft Entra ID P1 is the lower cost option.
+
+select a dynamic group when users added to tenant needs to automatically assign m365 license. 
