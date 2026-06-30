@@ -166,3 +166,13 @@ Downloading the vault credentials and registering the server with the Recovery S
 Only Microsoft Entra ID P1 and P2 support SSPR, but Microsoft Entra ID P1 is the lower cost option.
 
 select a dynamic group when users added to tenant needs to automatically assign m365 license. 
+
+
+
+External collaboration settings let you specify which roles in your organization can invite external users for B2B collaboration
+
+the default backup policy retains daily backups in the backup vault for 30 days
+
+The Basic app service plan does not support automatic scaling - you must scale up the plan to Premium (or higher) to support automatic scaling.
+
+Versioning must be enabled for both the source and destination accounts during replication
